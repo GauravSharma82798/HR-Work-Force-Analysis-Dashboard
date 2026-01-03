@@ -1,5 +1,6 @@
-#HR-Work-Force-Analysis-Dashboard
+
 HR Workforce Analysis Project
+
 📌 Project Overview
 
 This project focuses on analyzing HR workforce data to derive actionable insights related to employee attrition, performance, demographics, and workforce trends. The goal is to support data-driven decision-making for HR teams by identifying key factors that influence employee retention, productivity, and organizational efficiency.
